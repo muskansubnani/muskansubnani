@@ -1,6 +1,6 @@
 ### Hi there, I'm Muskan 👋
 
-Full Stack .NET Software Engineer with 4+ years of Learning & Building Full Stack Decentralized Applications.
+Full Stack .NET Software Engineer with 4+ years experience. Learning & Building Full Stack Decentralized Applications in my free time.
 <br>
 
 #### Reach out to me on! :mailbox: 
